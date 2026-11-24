@@ -1,0 +1,19 @@
+{
+  "site": { "name": "El Portal de la Quebrada", "url": "https://prueba.homes" },
+  "seo": { "indexable": false },
+  "contact": {
+    "phone": "+543884955737",
+    "phone_display": "+54 (0388) 495-5737",
+    "whatsapp": "5493885411616",
+    "email": "contactenos@elportaldelaquebrada.com"
+  },
+  "address": {
+    "street": "Av. 17 de Octubre S/N (Ruta 9 – Acceso Norte)",
+    "city": "Tilcara",
+    "region": "Jujuy",
+    "zip": "4624",
+    "country": "Argentina"
+  },
+  "geo": { "lat": null, "lng": null },
+  "social": { "facebook": "https://www.facebook.com/ElPortalDeLaQuebrada", "booking": "", "airbnb": "" }
+}

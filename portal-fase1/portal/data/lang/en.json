@@ -1,0 +1,33 @@
+{
+  "skip": "Skip to content",
+  "soon": "This section is under construction.",
+  "notfound": { "title": "We couldn't find that page", "text": "The link may have changed. Let's go back to the home page." },
+  "alt": { "hero": "El Portal de la Quebrada hotel in Tilcara, Jujuy" },
+  "nav": {
+    "menu": "Menu", "home": "Home", "rooms": "Rooms", "services": "Services", "restaurant": "Restaurant",
+    "pool": "Pool", "spa": "Spa", "location": "Location", "rates": "Rates", "gallery": "Gallery", "contact": "Contact",
+    "lang_name": "Español", "lang_label": "Ver esta página en español"
+  },
+  "meta": {
+    "home": {
+      "title": "Hotel & Spa in Tilcara with Pool | El Portal de la Quebrada",
+      "description": "Hotel and spa in Tilcara, Jujuy, on Route 9, 500 meters from the northern entrance to town. Rooms, pool, spa and restaurant in the Quebrada de Humahuaca."
+    }
+  },
+  "home": {
+    "title": "Hotel & Spa with views of the Tilcara mountains",
+    "subtitle": "Comfortable rooms, pool, spa and restaurant, 500 meters from the northern entrance to Tilcara, on Route 9.",
+    "cta_rates": "See rates",
+    "cta_location": "How to get here",
+    "intro_title": "The gateway to the Quebrada",
+    "intro_text": "Its name comes from the Portada de Antofagasta: just as that monument marks an entrance, this hotel is the gateway to the Quebrada de Humahuaca. Come enjoy the landscapes of northern Argentina and its traditional cuisine.",
+    "cards": {
+      "rooms": { "alt": "Hotel room", "text": "10 superior and 24 standard rooms." },
+      "pool": { "alt": "Hotel pool", "text": "Open from August to May." },
+      "spa": { "alt": "Hotel spa", "text": "A place to unwind after exploring the Quebrada." },
+      "restaurant": { "alt": "Restaurant hall", "text": "Traditional northern dishes, with a hall for 200 guests." }
+    },
+    "where_title": "On Route 9, 500 meters from the northern entrance to Tilcara",
+    "where_text": "We are on Av. 17 de Octubre, a few minutes from downtown Tilcara and the Pucará."
+  }
+}

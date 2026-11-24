@@ -1,0 +1,33 @@
+{
+  "skip": "Ir al contenido",
+  "soon": "Esta sección está en construcción.",
+  "notfound": { "title": "No encontramos esa página", "text": "Puede que el enlace haya cambiado. Volvamos al inicio." },
+  "alt": { "hero": "Hostería El Portal de la Quebrada, en Tilcara, Jujuy" },
+  "nav": {
+    "menu": "Menú", "home": "Inicio", "rooms": "Habitaciones", "services": "Servicios", "restaurant": "Restaurante",
+    "pool": "Pileta", "spa": "Spa", "location": "Ubicación", "rates": "Tarifas", "gallery": "Galería", "contact": "Contacto",
+    "lang_name": "English", "lang_label": "Ver esta página en inglés"
+  },
+  "meta": {
+    "home": {
+      "title": "Hotel y Spa en Tilcara con pileta | El Portal de la Quebrada",
+      "description": "Hostería y spa en Tilcara, Jujuy, sobre la Ruta 9 a 500 metros del acceso norte. Habitaciones, pileta, spa y restaurante en la Quebrada de Humahuaca."
+    }
+  },
+  "home": {
+    "title": "Hostería y Spa con vista a las montañas de Tilcara",
+    "subtitle": "Habitaciones cómodas, pileta, spa y restaurante, a 500 metros del acceso norte de Tilcara, sobre la Ruta 9.",
+    "cta_rates": "Ver tarifas",
+    "cta_location": "Cómo llegar",
+    "intro_title": "La puerta de entrada a la Quebrada",
+    "intro_text": "Su nombre nace de la Portada de Antofagasta: así como ese monumento marca un acceso, esta hostería es la portada de la Quebrada de Humahuaca. Venga a disfrutar los paisajes del norte argentino y su cocina típica.",
+    "cards": {
+      "rooms": { "alt": "Habitación de la hostería", "text": "10 habitaciones superior y 24 estándar." },
+      "pool": { "alt": "Pileta de la hostería", "text": "Abierta de agosto a mayo." },
+      "spa": { "alt": "Spa de la hostería", "text": "Un espacio para descansar después de recorrer la Quebrada." },
+      "restaurant": { "alt": "Salón del restaurante", "text": "Comidas típicas del norte, con salón para 200 personas." }
+    },
+    "where_title": "Sobre la Ruta 9, a 500 metros del acceso norte de Tilcara",
+    "where_text": "Estamos en la Av. 17 de Octubre, a pocos minutos del centro de Tilcara y del Pucará."
+  }
+}
